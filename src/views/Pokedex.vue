@@ -93,6 +93,7 @@ export default {
         display: flex;
         justify-content: center;
         align-items: center;
+        padding: 20px 0;
     }
     
     .overview{
